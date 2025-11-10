@@ -1,0 +1,29 @@
+li{
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
+}
+a{
+    color: black;
+    font-weight: bold;
+}
+header {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 1.5em;
+}
+body{
+     background-color: rgb(255, 232, 205);
+    text-align: center;
+}
+div{
+    background-color: rgb(255, 255, 255);
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 100px;
+    box-shadow: 20px;
+    padding: 30px;
+    border-radius: 40px;
+    box-shadow: 50px;
+}
